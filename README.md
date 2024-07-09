@@ -25,12 +25,10 @@ Realiza a consulta de um CEP e retorna as informações de endereço.
 
 ```bash
 GET /consulta-cep/01001000
-
-
-Exemplo de Resposta
-------------------------------
 ```
-json
+
+### Exemplo de Resposta
+```json
 
 {
   "cep": "01001-000",
